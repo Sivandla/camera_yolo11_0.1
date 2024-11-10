@@ -1,0 +1,6 @@
+train: C:/Users/My Laptop/Desktop/cpvs/dataset/images/train
+val: C:/Users/My Laptop/Desktop/cpvs/dataset/images/val
+test: C:/Users/My Laptop/Desktop/cpvs/dataset/images/val/test  # Nếu bạn có tập test
+
+nc: 3  # Số lượng lớp (classes)
+names: ['class1', 'class2', 'class3']  # Danh sách tên các lớp
